@@ -28,8 +28,19 @@
 <img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c4_veg.PNG" align=center width=22% height=22%/>
 <details><summary>ᗣᙖOᙀƮᔑ..</summary>
 <p>
-I yumeship with Yuji & Sukuna (seperate) and I don't mind sharing! doubles and other ships are okay. Everyone should enjoy what they want and feel love; I want everyone to exprience how I feel about these special characters- there's no point caging the one you love on a pedestal. <img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c9.PNG" align=center width=20% height=20%/>
+<a target="_blank" href="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c9.PNG">
+ <img align="right" width=20% height=20% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c9.PNG"> 
+</a>
+<p align="right" dir="auto">‎ ‎ ‎ </p>
+ <p align="right" dir="auto"> I yumeship with Yuji & Sukuna (seperate)
+ <p align="right"> and I don't mind sharing! doubles and other ships are okay.
+ ㅤㅤ <p align="right"> Everyone should enjoy what they want and have fun. 
+ <p align="right"> There's no point selfishly putting what you love on a pedestal.
+ 
+ </p>
 </p>
+<p align="right" dir="auto">‎ ‎ ‎ </p>
+<p align="right" dir="auto">‎ ‎ ‎ </p>
 </details>
 
 <h5 align="center"/>
