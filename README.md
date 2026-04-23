@@ -76,7 +76,7 @@
 <p>
  <p align="center" dir="auto">${\textsf{\color{#d95e25}I like lots of stuff! Currently going ham over Jujutsu Kaisen.}}$<br>
  <p align="center" dir="auto">${\textsf{\color{#d95e25}But I also like Kingdom Hearts, Final Fantasy (VII, X, XV, XVI),}}$<br>
-  <p align="center" dir="auto">${\textsf{\color{#d95e25}Devil May Cry, Yu-Gi-Oh, ULTRAKILL, Madness Combat,}}$<br>
+  <p align="center" dir="auto">${\textsf{\color{#d95e25}Devil May Cry, Yu-Gi-Oh, ULTRAKILL, Legend of Zelda,}}$<br>
  <p align="center" dir="auto">${\textsf{\color{#d95e25}Sonic the Hedgehog, Sonic.EXE and a lot more...}}$<br>
 </p>
 <img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c10.PNG" align=center width=24% height=24%/>
