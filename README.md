@@ -27,6 +27,7 @@
 </details>
 
 <h5 align="center"/>
+  <p align="center" dir="auto">‎ ‎ ‎ </p>
 <img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c4_veg.PNG" align=center width=22% height=22%/>
 <details><summary>${\textsf{\color{#d6bfc3}ᗣᙖOᙀƮᔑ..}}$<br></summary>
 <p>
