@@ -11,8 +11,17 @@
 <p align=center>
 <details><summary>ꙆᙁƮᖇOᙃᙀᙅƮꙆOᙁ..</summary>
 <p>
-<img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c8.PNG" align=center width=20% height=20%/> Hello everynyan, my name is Patty!! I yumeship and I'm a fatty. Thanks. I use any pronouns, usually preferred neuter (it/its) and masc.
+<a target="_blank" href="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c8.PNG">
+ <img align="left" width=22% height=22% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c8.PNG"> 
+</a>
+<p align="left" dir="auto">‎ ‎ ‎ </p>
+ <p align="left" dir="auto">  ㅤMy name is Patty and I'm a fatty
+ <p align="left"> Any pronouns, preferred neuter (it/its) and masc.
+  <p align="left"> Other acc : <a href="https://github.com/echoedtes">echoedtes
+ </p>
 </p>
+<p align="left" dir="auto">‎ ‎ ‎ </p>
+<p align="left" dir="auto">‎ ‎ ‎ </p>
 </details>
 
 <h5 align="center"/>
