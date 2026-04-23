@@ -33,7 +33,7 @@
 </a>
 <p align="right" dir="auto">‎ ‎ ‎ </p>
  <p align="right" dir="auto"> I yumeship with Yuji & Sukuna (seperate)
- <p align="right"> and I don't mind sharing! doubles and other ships are okay.
+ <p align="right"> and I don't mind sharing! Doubles and other ships are okay.
  ㅤㅤ <p align="right"> Everyone should enjoy what they want and have fun. 
  <p align="right"> There's no point selfishly putting what you love on a pedestal.
  
@@ -42,15 +42,17 @@
 <p align="right" dir="auto">‎ ‎ ‎ </p>
 <p align="right" dir="auto">‎ ‎ ‎ </p>
 </details>
+</p>
 
 <h5 align="center"/>
 <img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c5_patty.PNG" align=center width=23% height=23%/>
 <details><summary>ᙖOᙀᙁᙃᗣᖇꙆᙓᔑ..</summary>
-I don't mind my ponies being used as reference or insperation per se, but I don't like direct copies of everything. Espescially if it's a gifted pony, so please don't heavy copy! Overall, it's not that deep to me, it's just a game.
+ <p align="center" dir="auto"> I don't mind my ponies being used as reference or insperation per se, but I don't like direct copies of everything. Espescially if it's a gifted pony, so please don't heavy copy! Overall, it's not that deep to me, it's just a game.
   
-C + H encouraged! Come by any time, I'm very friendly. althoug, it might take me a while to warm up to new faces, I can be non-verbal from time to time if my social battery is low- or I just don't know what to say. I may be 𝓯𝓻𝓮𝓪𝓴𝔂 sometimes... let me know if you're uncomforable! I'll be nonchalant aura farming instead.
+<p align="center" dir="auto"> C + H encouraged! Come by any time, I'm very friendly. althoug, it might take me a while to warm up to new faces, I can be non-verbal from time to time if my social battery is low- or I just don't know what to say. I may be 𝓯𝓻𝓮𝓪𝓴𝔂 sometimes... let me know if you're uncomforable! I'll be nonchalant aura farming instead.
 
-I don’t have a DNI list, I block freely. I entrust you to be a decent person with respect just as I will be in return, thank you.
+<p align="center" dir="auto">I don’t have a DNI list, I block freely. I entrust you to be a decent person with respect just as I will be in return, thank you.
+</p>
 </details>
 
 <h5 align="center"/>
