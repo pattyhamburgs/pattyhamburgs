@@ -55,7 +55,7 @@
  <p align="center" dir="auto">${\textsf{\color{#d95e25}I don't mind my ponies being used as reference or insperation per se,}}$
   <p align="center" dir="auto">${\textsf{\color{#d95e25}but I don't like direct copies of everything.}}$
   <p align="center" dir="auto">${\textsf{\color{#d95e25}Espescially if it's a gifted pony, so please don't heavy copy!}}$
-    <p align="center" dir="auto">${\textsf{\color{#d95e25}Overall, it's not that deep to me, it's just a game.}}$<br>
+    <p align="center" dir="auto">${\textsf{\color{#d95e25}Overall, I can't care less, it's just a game.}}$<br>
   <div align="center">
     ${\textsf{\color{#0d1117}.}}$
 <p align="center" dir="auto">${\textsf{\color{#d95e25}C + H encouraged! Come by any time, I'm very friendly.}}$
