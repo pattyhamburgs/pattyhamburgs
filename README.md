@@ -29,7 +29,7 @@
 <details><summary>ᗣᙖOᙀƮᔑ..</summary>
 <p>
 <a target="_blank" href="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c9.PNG">
- <img align="right" width=20% height=20% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c9.PNG"> 
+ <img align="right" width=22% height=22% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c9.PNG"> 
 </a>
 <p align="right" dir="auto">‎ ‎ ‎ </p>
  <p align="right" dir="auto"> I yumeship with Yuji & Sukuna (seperate)
