@@ -64,9 +64,9 @@
   <p align="center" dir="auto">${\textsf{\color{#d95e25}let me know if you're uncomforable! I'll be nonchalant aura farming instead.}}$<br>
 <div align="center">
   ${\textsf{\color{#0d1117}.}}$
-<p align="center" dir="auto">${\textsf{\color{#d95e25}I don’t have a DNI list, I block freely.}}$
-  <p align="center" dir="auto">${\textsf{\color{#d95e25}I entrust you to be a decent person with respect}}$
-  <p align="center" dir="auto">${\textsf{\color{#d95e25}just as I will be in return, thank you.}}$<br>
+<p align="center" dir="auto">${\textsf{\color{#ff946d}I don’t have a DNI list, I block freely.}}$
+  <p align="center" dir="auto">${\textsf{\color{#ff946d}I entrust you to be a decent person with respect}}$
+  <p align="center" dir="auto">${\textsf{\color{#ff946d}just as I will be in return, thank you.}}$<br>
 </p>
 </details>
 
