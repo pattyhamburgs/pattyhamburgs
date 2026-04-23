@@ -11,7 +11,7 @@
 <p align=center>
 <details><summary>INTRODUCTION..</summary>
 <p>
-<img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c8.PNG" align=center width=20% height=20%/> Hello everynyan, my name is Patty!! I yumeship and I'm a fatty. Thanks.
+<img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c8.PNG" align=center width=20% height=20%/> Hello everynyan, my name is Patty!! I yumeship and I'm a fatty. Thanks. I use any prns, usually preferred neuter (it/its) and masc.
 </p>
 </details>
 
