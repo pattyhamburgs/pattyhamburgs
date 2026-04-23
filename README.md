@@ -12,16 +12,16 @@
 <details><summary>ꙆᙁƮᖇOᙃᙀᙅƮꙆOᙁ..</summary>
 <p>
 <a target="_blank" href="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c8.PNG">
- <img align="left" width=22% height=22% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c8.PNG"> 
+ <img align="right" width=24% height=24% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c8.PNG"> 
 </a>
-<p align="left" dir="auto">‎ ‎ ‎ </p>
- <p align="left" dir="auto">  ㅤMy name is Patty and I'm a fatty
- <p align="left"> Any pronouns, preferred neuter (it/its) and masc.
-  <p align="left"> Other acc : <a href="https://github.com/echoedtes">echoedtes
+<p align="right" dir="auto">‎ ‎ ‎ </p>
+ <p align="right" dir="auto">  ㅤMy name is Patty and I'm a fatty
+ <p align="right"> Any pronouns, preferred neuter (it/its) and masc.
+  <p align="right"> Other acc : <a href="https://github.com/echoedtes">echoedtes
  </p>
 </p>
-<p align="left" dir="auto">‎ ‎ ‎ </p>
-<p align="left" dir="auto">‎ ‎ ‎ </p>
+<p align="right" dir="auto">‎ ‎ ‎ </p>
+<p align="right" dir="auto">‎ ‎ ‎ </p>
 </details>
 
 <h5 align="center"/>
@@ -29,18 +29,18 @@
 <details><summary>ᗣᙖOᙀƮᔑ..</summary>
 <p>
 <a target="_blank" href="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c9.PNG">
- <img align="right" width=22% height=22% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c9.PNG"> 
+ <img align="left" width=24% height=24% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c9.PNG"> 
 </a>
-<p align="right" dir="auto">‎ ‎ ‎ </p>
- <p align="right" dir="auto"> I yumeship with Yuji & Sukuna (seperate)
- <p align="right"> and I don't mind sharing! Doubles and other ships are okay.
- ㅤㅤ <p align="right"> Everyone should enjoy what they want and have fun. 
- <p align="right"> There's no point selfishly putting what you love on a pedestal.
+<p align="left" dir="auto">‎ ‎ ‎ </p>
+ <p align="left" dir="auto"> I yumeship with Yuji & Sukuna (seperate)
+ <p align="left"> and I don't mind sharing! Doubles and other ships are okay.
+ ㅤㅤ <p align="left"> Everyone should enjoy what they want and have fun. 
+ <p align="left"> There's no point selfishly putting what you love on a pedestal.
  
  </p>
 </p>
-<p align="right" dir="auto">‎ ‎ ‎ </p>
-<p align="right" dir="auto">‎ ‎ ‎ </p>
+<p align="left" dir="auto">‎ ‎ ‎ </p>
+<p align="left" dir="auto">‎ ‎ ‎ </p>
 </details>
 </p>
 
@@ -59,7 +59,7 @@
 <img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c6_bun.PNG" align=center width=25% height=25%/>
 <details><summary>ꙆᙁƮᙓᖇᙓᔑƮᔑ..</summary>
 <p>I like lots of stuff! Currently going ham over Jujutsu Kaisen. But I also like Kingdom Hearts, Final Fantasy (VII, X, XV, XVI), Devil May Cry, Yu-Gi-Oh, ULTRAKILL, Madness Combat, Sonic the Hedgehog, Sonic.EXE and a lot more...</p>
-<img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c10.PNG" align=center width=20% height=20%/>
+<img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c10.PNG" align=center width=24% height=24%/>
 </details>
 
 <h5 align="center"/>
