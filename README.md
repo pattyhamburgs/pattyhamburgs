@@ -35,7 +35,7 @@
  <img align="left" width=24% height=24% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c9.PNG"> 
 </a>
 
- <p align="left" dir="auto"> ${\textsf{\color{#d95e25}I yumeship with Yuji and Sukuna}}$
+ <p align="left" dir="auto"> ${\textsf{\color{#d95e25}I yumeship with Yuji and Sukuna (seperately)}}$
  <p align="left"> ${\textsf{\color{#d95e25}and I don't mind sharing! Doubles and other ships are okay.}}$
  ㅤㅤ <p align="left"> ${\textsf{\color{#d95e25}Everyone should enjoy what they want and have fun.}}$
  <p align="left"> ${\textsf{\color{#d95e25}There's no point selfishly putting what you love on a pedestal.}}$
