@@ -50,11 +50,19 @@
 <h5 align="center"/>
 <img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c5_patty.PNG" align=center width=23% height=23%/>
 <details><summary>${\textsf{\color{#d6bfc3}ᙖOᙀᙁᙃᗣᖇꙆᙓᔑ..}}$<br></summary>
- <p align="center" dir="auto"> ${\textsf{\color{#d95e25}I don't mind my ponies being used as reference or insperation per se, but I don't like direct copies of everything. Espescially if it's a gifted pony, so please don't heavy copy! Overall, it's not that deep to me, it's just a game.}}$<br>
+ <p align="center" dir="auto"> ${\textsf{\color{#d95e25}I don't mind my ponies being used as reference or insperation per se,}}$
+   ${\textsf{\color{#d95e25}but I don't like direct copies of everything.}}$
+   ${\textsf{\color{#d95e25}Espescially if it's a gifted pony, so please don't heavy copy! Overall, it's not that deep to me, it's just a game.}}$<br>
   
-<p align="center" dir="auto"> ${\textsf{\color{#d95e25}C + H encouraged! Come by any time, I'm very friendly. althoug, it might take me a while to warm up to new faces, I can be non-verbal from time to time if my social battery is low- or I just don't know what to say. I may be 𝓯𝓻𝓮𝓪𝓴𝔂 sometimes... let me know if you're uncomforable! I'll be nonchalant aura farming instead.}}$<br>
+<p align="center" dir="auto"> ${\textsf{\color{#d95e25}C + H encouraged! Come by any time, I'm very friendly.}}$
+  ${\textsf{\color{#d95e25}Although, it might take me a while to warm up to new faces,}}$<br>
+  ${\textsf{\color{#d95e25}I can be nonverbal from time to time if my social battery is low}}$<br>
+  ${\textsf{\color{#d95e25}or I just don't know what to say. I may be 𝓯𝓻𝓮𝓪𝓴𝔂 sometimes...}}$<br>
+  ${\textsf{\color{#d95e25}let me know if you're uncomforable! I'll be nonchalant aura farming instead.}}$<br>
 
-<p align="center" dir="auto">${\textsf{\color{#d95e25}I don’t have a DNI list, I block freely. I entrust you to be a decent person with respect just as I will be in return, thank you.}}$<br>
+<p align="center" dir="auto">${\textsf{\color{#d95e25}I don’t have a DNI list, I block freely.}}$
+  ${\textsf{\color{#d95e25}I entrust you to be a decent person with respect}}$
+  ${\textsf{\color{#d95e25}just as I will be in return, thank you.}}$<br>
 </p>
 </details>
 
