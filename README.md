@@ -18,6 +18,7 @@
 </a>
 
 <p align="right" dir="auto"> ${\textsf{\color{#d95e25}ㅤMy name is}}$ ${\textsf{\color{#ff946d} Patty}}$ ${\textsf{\color{#d95e25}and I'm a fatty}}$
+  <p align="right"> ${\textsf{\color{#d95e25}Eng/Viet -- lvl 16}}$
  <p align="right"> ${\textsf{\color{#d95e25}Any prns, prefer neuter (it/its) and masc.}}$
   <p align="right"> ${\textsf{\color{#d95e25}Uhm. I don't know what else to}}$
     <p align="right"> ${\textsf{\color{#d95e25}add here's my spotify :}}$ <a href="https://open.spotify.com/user/juu8oxhdz4qdrth5olugzr54e?si=LL_inQQ2SWCSuNud01QwBg">cultsr3n
