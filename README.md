@@ -77,7 +77,7 @@
 <img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c6_bun.PNG" align=center width=25% height=25%/>
 <details><summary>${\textsf{\color{#d6bfc3}ꙆᙁƮᙓᖇᙓᔑƮᔑ..}}$<br></summary>
 <p>
- <p align="center" dir="auto">${\textsf{\color{#d95e25}I like lots of stuff! Currently going ham over Jujutsu Kaisen.}}$<br>
+ <p align="center" dir="auto">${\textsf{\color{#d95e25}I like lots of stuff! Currently larp larp sahuring over Jujutsu Kaisen.}}$<br>
  <p align="center" dir="auto">${\textsf{\color{#d95e25}But I also like Kingdom Hearts, Final Fantasy (VII, X, XV, XVI),}}$<br>
   <p align="center" dir="auto">${\textsf{\color{#d95e25}Devil May Cry, Yu-Gi-Oh, ULTRAKILL, Legend of Zelda,}}$<br>
  <p align="center" dir="auto">${\textsf{\color{#d95e25}Sonic the Hedgehog, Sonic.EXE and a lot more...}}$<br>
