@@ -36,10 +36,11 @@
  <img align="left" width=24% height=24% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c9.PNG"> 
 </a>
 
- <p align="left" dir="auto"> ${\textsf{\color{#d95e25}I yumeship with Yuji and Sukuna (seperately)}}$
+ <p align="left" dir="auto"> ${\textsf{\color{#d95e25}Raging lord of yume and oc yaouri slop}}$
  <p align="left"> ${\textsf{\color{#d95e25}and I don't mind sharing! Doubles and other ships are okay.}}$
- ㅤㅤ <p align="left"> ${\textsf{\color{#d95e25}Everyone should enjoy what they want and have fun.}}$
- <p align="left"> ${\textsf{\color{#d95e25}There's no point selfishly putting what you love on a pedestal.}}$
+ ㅤㅤ <p align="left"> ${\textsf{\color{#d95e25}I draw,, sometimes. I drew everything in this git.}}$
+ <p align="left"> ${\textsf{\color{#d95e25}Erm my personality changes a lot depending on}}$
+   <p align="left"> ${\textsf{\color{#d95e25}who I'm talking to ok? But I am me, nobody else.}}$
  
  </p>
 </p>
