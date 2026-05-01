@@ -2,7 +2,7 @@
 <img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/Untitled96_20260501211714.png" width=55% height=55%/>
 
 <h5 align="center"/>
-<img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c2.PNG" width=33% height=33%/>
+<img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/Untitled96_20260501212341.png" width=33% height=33%/>
 
 <h5 align="center"/>
 <img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c3_bun.PNG" align=center width=22% height=22%/>
