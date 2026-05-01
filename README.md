@@ -9,7 +9,7 @@
 
   <div align="center">
   <details>
- <summary>${\textsf{\color{#d6bfc3}ꙆᙁƮᖇOᙃᙀᙅƮꙆOᙁ..}}$</summary>
+ <summary>${\textsf{\color{#d6bfc3}INTRODUCTION..}}$</summary>
 <p>
 <a target="_blank" href="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c8.PNG">
  <img align="right" width=24% height=24% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c8.PNG"> 
@@ -29,7 +29,7 @@
 <h5 align="center"/>
   <p align="center" dir="auto">‎ ‎ ‎ </p>
 <img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c4_veg.PNG" align=center width=22% height=22%/>
-<details><summary>${\textsf{\color{#d6bfc3}ᗣᙖOᙀƮᔑ..}}$<br></summary>
+<details><summary>${\textsf{\color{#d6bfc3}ABOUTS..}}$<br></summary>
 <p>
 <a target="_blank" href="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c9.PNG">
  <img align="left" width=24% height=24% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c9.PNG"> 
@@ -50,7 +50,7 @@
 
 <h5 align="center"/>
 <img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c5_patty.PNG" align=center width=23% height=23%/>
-<details><summary>${\textsf{\color{#d6bfc3}ᙖOᙀᙁᙃᗣᖇꙆᙓᔑ..}}$<br></summary>
+<details><summary>${\textsf{\color{#d6bfc3}BOUNDERIES..}}$<br></summary>
   ${\textsf{\color{#0d1117}.}}$
  <p align="center" dir="auto">${\textsf{\color{#d95e25}I don't mind my ponies being used as reference or insperation per se,}}$
   <p align="center" dir="auto">${\textsf{\color{#d95e25}but I don't like direct copies of everything.}}$
@@ -73,7 +73,7 @@
 
 <h5 align="center"/>
 <img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/c6_bun.PNG" align=center width=25% height=25%/>
-<details><summary>${\textsf{\color{#d6bfc3}ꙆᙁƮᙓᖇᙓᔑƮᔑ..}}$<br></summary>
+<details><summary>${\textsf{\color{#d6bfc3}INTERESTS..}}$<br></summary>
 <p>
  <p align="center" dir="auto">${\textsf{\color{#d95e25}I like lots of stuff! Currently larp larp sahuring over Jujutsu Kaisen.}}$<br>
  <p align="center" dir="auto">${\textsf{\color{#d95e25}But I also like Kingdom Hearts, Final Fantasy (VII, X, XV, XVI),}}$<br>
