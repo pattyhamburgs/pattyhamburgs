@@ -36,4 +36,4 @@
 </details>
 
 <h5 align="center"/>
-<img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/tiger.PNG" width=36% height=36%/>
+<img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/tiger.PNG" width=39% height=39%/>
