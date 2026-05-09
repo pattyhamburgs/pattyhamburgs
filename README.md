@@ -23,6 +23,9 @@
 <p align="center"> ${\textsf{\color{#d95e25}herr thousand crine emoji}}$
    <div align="center">
     ${\textsf{\color{#0d1117}.}}$
+<p align="center"> ${\textsf{\color{#d95e25}C+H freely will yuo be mu fries}}$
+   <div align="center">
+    ${\textsf{\color{#0d1117}.}}$
 <p align="center"> ${\textsf{\color{#d95e25}Any prns, prefer neuter (it/its) and masc.}}$
 <p align="center"> ${\textsf{\color{#d95e25}Eng/Viet -- 16}}$
   <div align="center">
