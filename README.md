@@ -10,7 +10,7 @@
 
   <p align="center" dir="auto">
 <a target="_blank" href="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/reaction.PNG">
- <img align="center" width=17% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/reaction.PNG"> 
+ <img align="center" width=19% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/reaction.PNG"> 
 </a>
 <p align="center" dir="auto"> ${\textsf{\color{#d95e25}My name is}}$ ${\textsf{\color{#ff946d} Patty}}$ ${\textsf{\color{#d95e25}and I'm raging lord of yaouri yumeship}}$
    <div align="center">
