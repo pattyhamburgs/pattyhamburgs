@@ -1,8 +1,8 @@
 <h5 align="center"/>
-<img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/main.PNG" width=55% height=55%/>
+<img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/main.PNG" width=62% height=62%/>
 
 <h5 align="center"/>
-<img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/border.PNG" width=73% height=73%/>
+<img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/border.PNG" width=53% height=53%/>
 <div align="center">
   <details>
  <summary>${\textsf{\color{#d6bfc3}ELITE BALL KNOWLAGE}}$</summary>
@@ -10,7 +10,7 @@
 
   <p align="center" dir="auto">
 <a target="_blank" href="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/reaction.PNG">
- <img align="center" width=18% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/reaction.PNG"> 
+ <img align="center" width=17% src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/reaction.PNG"> 
 </a>
 <p align="center" dir="auto"> ${\textsf{\color{#d95e25}My name is}}$ ${\textsf{\color{#ff946d} Patty}}$ ${\textsf{\color{#d95e25}and I'm raging lord of yaouri yumeship}}$
    <div align="center">
