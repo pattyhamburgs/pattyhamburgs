@@ -1,5 +1,5 @@
 <h5 align="center"/>
-<img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/main.PNG" width=62% height=62%/>
+<img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/Untitled96_20260510131411.png" width=62% height=62%/>
 
 <h5 align="center"/>
 <img src="https://github.com/pattyhamburgs/pattyhamburgs/blob/main/border.PNG" width=53% height=53%/>
