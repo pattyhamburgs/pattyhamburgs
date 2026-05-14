@@ -16,14 +16,6 @@
 <p align="center" dir="auto"> ${\textsf{\color{#d95e25}My name is}}$ ${\textsf{\color{#ff946d} Patty}}$ ${\textsf{\color{#d95e25}and I'm raging lord of yaouri yumeship}}$
    <div align="center">
     ${\textsf{\color{#0d1117}.}}$
-<p align="center"> ${\textsf{\color{#d95e25}I don't mind doubles or ships ok}}$
-<p align="center"> ${\textsf{\color{#d95e25}I don't care we just havin fun fun}}$
-   <div align="center">
-    ${\textsf{\color{#0d1117}.}}$
-<p align="center"> ${\textsf{\color{#d95e25}Kingdom Hearts nerd rite}}$
-<p align="center"> ${\textsf{\color{#d95e25}herr thousand crine emoji}}$
-   <div align="center">
-    ${\textsf{\color{#0d1117}.}}$
 <p align="center"> ${\textsf{\color{#d95e25}C+H and int freely will yuo be mu fries}}$
    <div align="center">
     ${\textsf{\color{#0d1117}.}}$
