@@ -33,9 +33,6 @@
     ${\textsf{\color{#0d1117}.}}$
 <p align="center"> ${\textsf{\color{#d95e25}Uhm. I don't know what else to}}$
 <p align="center"> ${\textsf{\color{#d95e25}add here's my spotify :}}$ <a href="https://open.spotify.com/user/juu8oxhdz4qdrth5olugzr54e?si=LL_inQQ2SWCSuNud01QwBg">cultsr3n
-  <div align="center">
-    ${\textsf{\color{#0d1117}.}}$
-<a href="https://pattylistplsreadbyi.carrd.co">byi list + more </a>
 </p>
 </p>
 <p align="left" dir="auto">‎ ‎ ‎ </p>
